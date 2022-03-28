@@ -18,6 +18,8 @@ public class MediaComRepeticao {
 		media=soma/5;
 		
 		System.out.print("Media = "+media); 
+		
+		sc.close();
 	}
 
 }
