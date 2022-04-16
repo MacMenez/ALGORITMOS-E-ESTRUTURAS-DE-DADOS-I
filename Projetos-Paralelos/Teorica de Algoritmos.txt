@@ -35,5 +35,6 @@ PARTE TEÓRICA
     //escrevendo valores
     ESCREVA x
 
-    //Escrevendo texto na tela(Y é a variavel)
+    //Escrevendo texto na tela(Y é a variavel). 
+    //O conteudo dentro das aspas duplas(" ") é o contuedo a ser exibido
     ESCREVA "conteudo de Y = ", Y
