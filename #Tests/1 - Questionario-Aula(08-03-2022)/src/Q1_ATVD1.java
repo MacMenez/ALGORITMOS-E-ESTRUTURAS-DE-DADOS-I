@@ -7,7 +7,6 @@ public class Q1_ATVD1 {
     	
     	// Faça um programa para  somar 3 números inteiros quaisquer e mostrar o resultado.
         Scanner sc = new Scanner(System.in);
-            //Faça um programa para  somar 3 números inteiros quaisquer e mostrar o resultado.
             int n1, n2, n3, resultado;
         
             System.out.print("Digite o 1° número inteiro: \n");
@@ -21,7 +20,5 @@ public class Q1_ATVD1 {
             
             System.out.printf("A soma dos 3 números inteiros informados tem resultado de:\n %d", resultado);
         sc.close();
-        
-        
     }
 }
